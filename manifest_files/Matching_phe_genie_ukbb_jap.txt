@@ -9,10 +9,10 @@ aPTT	Activated partial thromboplastin time (APTT) (chrX)	Activated partial throm
 atrophic_gastritic				"Non-cancer illness code, self-reported: gastritis/gastric erosions"										
 BASOPHIL	Basophil count (Baso) (chrX)	Basophil count (Baso) (autosome)	Basophill percentage											
 BMI	"Body mass index (BMI) (autosomes, all)"		Body mass index (BMI)					OBESITY_(BMIQ14)/_SUSCEPTIBILITY_TO						
-brain_aneurysmm  	Cerebral aneurysm 		"Cerebral aneurysm, nonruptured"											
-brain_atherosclerosis	Ischemic stroke 		"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere"	Diagnoses - main ICD10: I67 Other cerebrovascular diseases										
+brain_aneurysmm  	Cerebral aneurysm		"Cerebral aneurysm, nonruptured"											
+brain_atherosclerosis	Ischemic stroke		"Other specified cerebrovascular diseases, other cerebrovascular disorders in diseases classified elsewhere"	Diagnoses - main ICD10: I67 Other cerebrovascular diseases										
 brain_atrophy														
-brain_stenosis	Ischemic stroke 		"Diagnoses - main ICD10: I65 Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"											
+brain_stenosis	Ischemic stroke		"Diagnoses - main ICD10: I65 Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"											
 brain_SVD														
 brain_UBO														
 Breast_cancer			Malignant neoplasm of breast	Diagnoses - main ICD10: C50 Malignant neoplasm of breast				Breast_carcinoma						
@@ -21,7 +21,7 @@ CA125
 CA19_9														
 cal_score_cont			Coronary atherosclerosis					Coronary_heart_disease_7						
 CALCIUM	Calcium (Ca) (autosome)	Calcium (Ca) (chrX)	Calcium (mmol/L)					Familial_hypocalciuric_hypercalcemia/Hypocalcemia/Hypoparathyroidism_familial_isolated/Neonatal_severe_hyperparathyroidism/Serum_calcium_level/not_specified						
-cataract	Cataract 		"Non-cancer illness code, self-reported: cataract"	Age cataract diagnosed				Age-related_cortical_cataract/Cataract_6/_multiple_types						
+cataract	Cataract		"Non-cancer illness code, self-reported: cataract"	Age cataract diagnosed				Age-related_cortical_cataract/Cataract_6/_multiple_types						
 CEA														
 cholecystitis			"Non-cancer illness code, self-reported: cholecystitis"	Diagnoses - main ICD10: K81 Cholecystitis										
 CL	Chloride (Cl) (autosome)	Chloride (Cl) (chrX)												
@@ -32,8 +32,8 @@ CREATININE	Serum creatinine (sCr) (chrX)	Serum creatinine (sCr) (autosome)	Creat
 daily_coffee01_23			Coffee consumed											
 Depressed_mood			"Non-cancer illness code, self-reported: depression"	"Non-cancer illness code, self-reported: depression"										
 depression_score			"Non-cancer illness code, self-reported: depression"	"Non-cancer illness code, self-reported: depression"										
-DEXA_bone_density	Osteoporosis 		"Non-cancer illness code, self-reported: osteoporosis"	"Non-cancer illness code, self-reported: osteopenia"	Osteoporosis	Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture	Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture							
-DM_diagnosis	Type 2 diabetes 	Type 2 Diabetes 	Diabetes diagnosed by doctor	Type 2 diabetes	"Non-cancer illness code, self-reported: diabetes"			Diabetes_mellitus_type_2	Diabetes_mellitus_type_2/High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_12	DIABETES_MELLITUS/_TYPE_2/_SUSCEPTIBILITY_TO				
+DEXA_bone_density	Osteoporosis		"Non-cancer illness code, self-reported: osteoporosis"	"Non-cancer illness code, self-reported: osteopenia"	Osteoporosis	Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture	Diagnoses - main ICD10: M80 Osteoporosis with pathological fracture							
+DM_diagnosis	Type 2 diabetes	Type 2 Diabetes	Diabetes diagnosed by doctor	Type 2 diabetes	"Non-cancer illness code, self-reported: diabetes"			Diabetes_mellitus_type_2	Diabetes_mellitus_type_2/High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_12	DIABETES_MELLITUS/_TYPE_2/_SUSCEPTIBILITY_TO				
 drusen														
 duodenal_ulcer			Diagnoses - main ICD10: K26 Duodenal ulcer	"Non-cancer illness code, self-reported: duodenal ulcer"										
 Dyslipid_diagnosis														
@@ -55,7 +55,7 @@ FEV1_percent			"Forced expiratory volume in 1-second (FEV1), predicted percentag
 free_T4			"Non-cancer illness code, self-reported: hyperthyroidism/thyrotoxicosis"	"Non-cancer illness code, self-reported: hypothyroidism/myxoedema"										
 FVC_L			"Forced vital capacity (FVC), Best measure"											
 FVC_percent														
-gastric_cancer	Gastric cancer 		"Cancer code, self-reported: stomach cancer"	Malignant neoplasm of stomach	Diagnoses - main ICD10: C16 Malignant neoplasm of stomach									
+gastric_cancer	Gastric cancer		"Cancer code, self-reported: stomach cancer"	Malignant neoplasm of stomach	Diagnoses - main ICD10: C16 Malignant neoplasm of stomach									
 gastric_ulcer			Diagnoses - main ICD10: K25 Gastric ulcer	"Non-cancer illness code, self-reported: gastric/stomach ulcers"										
 GB_adenomyomatosis														
 GB_polyp														
@@ -69,9 +69,9 @@ GPT	Alanine aminotransferase (ALT) (autosome)	Alanine aminotransferase (ALT) (ch
 guilt_feeling			Guilty feelings											
 HB	Hemoglobin (Hb) (chrX)	Hemoglobin (Hb) (autosome)	Haemoglobin concentration					Erythrocytosis/_familial/_3/Familial_erythrocytosis/Hemoglobin/_high_altitude_adaptation	Microcytic_anemia/not_specified					
 HBA1C	Hemoglobin A1c (HbA1c) (chrX)	Hemoglobin A1c (HbA1c) (autosome)	Glycated haemoglobin (mmol/mol)											
-HBV	Chronic hepatitis B 		Diagnoses - main ICD10: B18 Chronic viral hepatitis	"Non-cancer illness code, self-reported: infective/viral hepatitis"	Viral hepatitis									
+HBV	Chronic hepatitis B		Diagnoses - main ICD10: B18 Chronic viral hepatitis	"Non-cancer illness code, self-reported: infective/viral hepatitis"	Viral hepatitis									
 HCT	Hematocrit (Ht) (autosome)	Hematocrit (Ht) (chrX)	Haematocrit percentage											
-HCV	Chronic hepatitis C 		Diagnoses - main ICD10: B18 Chronic viral hepatitis	"Non-cancer illness code, self-reported: infective/viral hepatitis"	Viral hepatitis									
+HCV	Chronic hepatitis C		Diagnoses - main ICD10: B18 Chronic viral hepatitis	"Non-cancer illness code, self-reported: infective/viral hepatitis"	Viral hepatitis									
 HDL	High-density-lipoprotein cholesterol (HDL-C) (chrX)	High-density-lipoprotein cholesterol (HDL-C) (autosome)	HDL cholesterol (mmol/L)					Diabetes_mellitus_type_2/High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_12	High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_11	High_density_lipoprotein_cholesterol_level_quantitative_trait_locus_11/Hyperlipoproteinemia/_type_I				
 Height	"Height (autosome, all)"		Standing height											
 HTN_diagnosis	Diastolic blood pressure (DBP) (autosome)	Systolic blood pressure (SBP) (autosome)	Hypertension	Diagnoses - main ICD10: I10 Essential (primary) hypertension	"Non-cancer illness code, self-reported: hypertension"	"Non-cancer illness code, self-reported: essential hypertension"								
@@ -79,8 +79,8 @@ Inbody_Body_fat_mass			Whole body fat mass
 Inbody_fat_percent			Body fat percentage											
 Inbody_skeletal_muscle_mass														
 intestinal_metaplasia														
-IOP_rt	Glaucoma 		OCT measured (right): Measurable											
-IOP_rt	Glaucoma 		OCT measured (left): Measurable	Glaucoma suspect	Eye problems/disorders: Glaucoma									
+IOP_rt	Glaucoma		OCT measured (right): Measurable											
+IOP_rt	Glaucoma		OCT measured (left): Measurable	Glaucoma suspect	Eye problems/disorders: Glaucoma									
 IPMN														
 K	Potassium (K) (chrX)	Potassium (K) (autosome)												
 LDL_chol	Low-density-lipoprotein cholesterol (LDL-C) (chrX)	Low-density-lipoprotein cholesterol (LDL-C) (autosome)	LDL direct (mmol/L)					Low_density_lipoprotein_cholesterol_level_quantitative_trait_locus_6						
@@ -98,7 +98,7 @@ MPV			Mean platelet (thrombocyte) volume
 Na	Sodium (Na) (chrX)	Sodium (Na) (autosome)												
 nocturia_frequency														
 optic_disc_cupping														
-optic_fiber_loss	Glaucoma 		Glaucoma suspect	Eye problems/disorders: Glaucoma										
+optic_fiber_loss	Glaucoma		Glaucoma suspect	Eye problems/disorders: Glaucoma										
 PCT			Platelet crit											
 PFT_categoric														
 PHOSPHORUS	Phosphorus (P) (chrX)	Phosphorus (P) (autosome)	Phosphate (mmol/L)											
@@ -107,7 +107,7 @@ PSA
 PT	Prothrombin time (PT) (chrX)	Prothrombin time (PT) (autosome)		Other coagulation defects										
 RBC 	Red blood cell count (RBC) (chrX)	Red blood cell count (RBC) (autosome)	Red blood cell (erythrocyte) count											
 RDW			Red blood cell (erythrocyte) distribution width											
-Renal_stone	Urolithiasis 		"Non-cancer illness code, self-reported: kidney stone/ureter stone/bladder stone"											
+Renal_stone	Urolithiasis		"Non-cancer illness code, self-reported: kidney stone/ureter stone/bladder stone"											
 retardation			Recent changes in speed/amount of moving or speaking											
 SEG_NEUT	Neutrophil count (Neutro) (autosome)		Neutrophill percentage											
 serum_albumin	Albumin (Alb) (chrX)	Albumin (Alb) (autosome)	Albumin (g/L)											
